@@ -7,4 +7,4 @@
 
 
 ### Visualizations
-https://user-images.githubusercontent.com/67581447/160277383-ec6688f4-6095-4216-9931-60f535fd78af.mp4
+https://github.com/Jiganesh/MazePathFinder/blob/main/video/visualization.mp4
